@@ -29,5 +29,3 @@ Failing to comply with any of these rules will lead to account termination or as
 - To prevent uploading stolen assets, a system is used to detect the possibility of an asset being stolen. If the system deems the similarity to be close enough, it will be removed automatically. If the system is unsure, the staff team will need to review it before it can be uploaded.
 
 - All assets can be reported by users for being stolen in case it cannot be detected using the existing database.
-
-git@github.com:WILLATRONIX/Axiom-Assets-Markdown.git
