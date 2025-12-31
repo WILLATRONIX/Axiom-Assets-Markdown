@@ -10,10 +10,6 @@ Failing to comply with any of these rules will lead to account termination or as
 
 -   Any NSFW or NSFL content should not be posted to this site. Avoid borderline images as well as keeping your user profile SFW.
 
-### Swearing
-
--   Just keep it professional.
-
 ### No Advertising
 
 -   Do not promote content from other websites using unofficial methods, such as putting links in descriptions.
