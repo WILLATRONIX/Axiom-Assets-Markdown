@@ -1,9 +1,3 @@
-# Downloading Assets
+## page incomplete
 
-## Blueprints
-
-## Presets
-
-## Themes
-
-## Asset Packs
+please check back later

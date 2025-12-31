@@ -51,36 +51,36 @@ When signing in using OAuth, the token is exchanged with the provider for the un
 
 To maintain security, most actions are logged.
 
-- Activity logs are retained for **up to** six months.
-- Only the most recent one month of logs is readily accessible to staff.
-- **After** one month, logs are compressed and archived to a secure remote storage server.
-- All logs are permanently deleted after the six-month retention period.
+-   Activity logs are retained for **up to** six months.
+-   Only the most recent one month of logs is readily accessible to staff.
+-   **After** one month, logs are compressed and archived to a secure remote storage server.
+-   All logs are permanently deleted after the six-month retention period.
 
 ### Logged Actions
 
 The following actions may be recorded in activity logs:
 
-- Downloads
-- Uploads
-- Asset Modification
-- Asset Deletion
-- New Blueprint Tags
-- Saving / Unsaving Assets
-- Collection Creation
-- Collection Deletion
-- Collection Modification
-- Collection Update
-- Account Creation
-- Account Modification
-- Account Logins
-- Account Logouts
-- Account Deletion
-- Account Password Resets
-- Moderation Actions
-- Visitor Creation
-- Assigned Role Update
-- Role Permission Update
-- User Permission Update
+-   Downloads
+-   Uploads
+-   Asset Modification
+-   Asset Deletion
+-   New Blueprint Tags
+-   Saving / Unsaving Assets
+-   Collection Creation
+-   Collection Deletion
+-   Collection Modification
+-   Collection Update
+-   Account Creation
+-   Account Modification
+-   Account Logins
+-   Account Logouts
+-   Account Deletion
+-   Account Password Resets
+-   Moderation Actions
+-   Visitor Creation
+-   Assigned Role Update
+-   Role Permission Update
+-   User Permission Update
 
 ### Who is being logged
 
@@ -89,8 +89,9 @@ Everyone who uses this website is logged, even if you are a visitor.
 ### Who can view logs
 
 Logs may only be accessed by staff with the following roles:
-- Admin
-- Moderator
+
+-   Admin
+-   Moderator
 
 Logged data is used for moderation and troubleshooting.
 
@@ -102,11 +103,12 @@ Axiom Assets only uses cookies that are strictly required for the website to fun
 
 ### Required Cookies
 
-- Authentication Cookie
-    - Used for login sessions and to verify users.
+-   Authentication Cookie
 
-- Visitor Identification Cookie
-    - A cookie assigned to each visitor to authenticate users who are not logged in. This cookie can also be used to associate two accounts that have been logged into a device with the same visitor identifier.
+    -   Used for login sessions and to verify users.
+
+-   Visitor Identification Cookie
+    -   A cookie assigned to each visitor to authenticate users who are not logged in. This cookie can also be used to associate two accounts that have been logged into a device with the same visitor identifier.
 
 The Visitor Identification Cookie does not track users across third-party websites, nor is it used for advertising. It is a first-party cookie used for authentication and logging. The value used to identify you is a random value generated using the UUIDv4 standard which only has context within Axiom Asset Library's database.
 
@@ -120,15 +122,37 @@ Visitor identifiers are stored in Axiom Asset Library's database for thirty days
 
 Account association via visitor identifiers is used exclusively for security, moderation, and abuse prevention.
 
+## Discord Bot Privacy
+
+The Axiom Asset Library Discord bot is operated by **WILLATRONIX LTD** and functions as a client of the Axiom Asset Library API.
+
+### Data Collection and Usage
+
+The bot **does not store any personal data**. It interacts directly with the website's API to:
+
+-   Listen for new asset uploads.
+-   Retrieve and return asset information in response to commands.
+-   Provide search results or notifications.
+
+All data accessed by the bot is temporary and only used to fulfill user requests. No Discord messages or personal information are stored by the bot.
+
+### Data Sharing
+
+The bot does **not share any data** with third parties. All API interactions are internal and serve only to deliver content from the Axiom Asset Library.
+
+### Security
+
+API requests from the bot are secure. Since the bot does not store any data, no user data is retained beyond the API responses themselves.
+
 ## Data Usage
 
 Data collected by Axiom Asset Library is used solely to:
 
-- Authenticate users and visitors
-- Maintain account security
-- Prevent abuse and ban evasion
-- Enable moderation and troubleshooting
-- Provide core website functionality
+-   Authenticate users and visitors
+-   Maintain account security
+-   Prevent abuse and ban evasion
+-   Enable moderation and troubleshooting
+-   Provide core website functionality
 
 No data is used for advertising, profiling, or analytics beyond basic operational needs.
 
@@ -136,9 +160,9 @@ No data is used for advertising, profiling, or analytics beyond basic operationa
 
 You may request the following at any time:
 
-- Access to your account data
-- Correction of incorrect data
-- Deletion of your account
+-   Access to your account data
+-   Correction of incorrect data
+-   Deletion of your account
 
 Requests can be made by contacting the site administrator. Account deletion will permanently remove associated personal data.
 
