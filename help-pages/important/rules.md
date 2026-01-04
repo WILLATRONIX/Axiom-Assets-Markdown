@@ -8,7 +8,7 @@ Failing to comply with any of these rules will lead to account termination or as
 
 ### No Inappropriate Content
 
--   Any NSFW or NSFL content should not be posted to this site. Avoid borderline images as well as keeping your user profile SFW.
+-   Any NSFW or NSFL content should not be posted to this site. Avoid borderline images as well as keeping your user profile SFW.w
 
 ### No Advertising
 

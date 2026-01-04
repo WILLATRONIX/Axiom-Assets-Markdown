@@ -114,7 +114,7 @@ The Visitor Identification Cookie does not track users across third-party websit
 
 ### Cookie Retention
 
-All user authentication cookies are set to expire seventy-two hours after they are sent to the client. You may delete this cookie, but you will be logged out.
+All user authentication cookies are set to expire one week (168 hours) after they are sent to the client. You may delete this cookie, but you will be logged out.
 
 Visitor identification cookies expire thirty days after they are sent to the client. Deleting this cookie will have no effect, but you will be provided a new visitor identifier on the next refresh. Expired cookies will also be replaced with a new identifier.
 
