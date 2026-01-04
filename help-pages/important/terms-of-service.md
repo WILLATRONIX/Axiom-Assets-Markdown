@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last Updated: 01/01/2026
+Last Updated: 04/01/2026
 
 ## 1. Overview
 

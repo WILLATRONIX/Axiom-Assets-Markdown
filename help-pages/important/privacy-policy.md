@@ -1,6 +1,6 @@
 # Privacy
 
-Last Updated: 01/01/2026
+Last Updated: 04/01/2026
 
 Axiom Asset Library is operated by **WILLATRONIX LTD** (“we”, “us”, or “our”).
 
